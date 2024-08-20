@@ -1,0 +1,2 @@
+# SIF
+SteamgribDB Image Fetcher
