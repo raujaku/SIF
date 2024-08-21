@@ -65,7 +65,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [tqdm](https://github.com/tqdm/tqdm) for the progress bar functionality
 - [PyYAML](https://pyyaml.org/) for YAML file handling
 - [vdf](https://github.com/ValvePython/vdf) for Valve's KeyValues format handling
-- [amesync](https://github.com/Maikeru86/GameSync) for the base code
+- [Maikeru86](https://github.com/Maikeru86/GameSync) for the base code
 ## Disclaimer
 
 This tool is not affiliated with Valve Corporation or Steam. Use at your own risk.
